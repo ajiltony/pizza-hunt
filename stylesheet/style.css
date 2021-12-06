@@ -1,0 +1,240 @@
+body{
+  background-color: #fafafa;;
+}
+
+header
+{
+  box-shadow: 0 0 30px 0 silver;
+  height: 600px;
+  padding-top: 10px;
+  padding-left: 30px;
+  background-image: url(i1.png);
+}
+
+.singup-button{
+  margin: 5px 10px 0 10px;
+}
+
+
+.modal-login {
+	width: 600px;
+}
+.modal-login .modal-content {
+	border-radius: 1px;
+	border: none;
+}
+.modal-login .modal-header {
+	position: relative;
+	justify-content: center;
+	background: #ffffff;
+}
+.modal-login .modal-body {
+  padding: 30px;
+  background: #ffffff;
+}
+.modal-login .modal-footer {
+  background: #ffffff;
+}
+.modal-login h4 {
+	text-align: center;
+	font-size: 26px;
+}
+.modal-login label {
+	font-weight: normal;
+	font-size: 13px;
+}
+.modal-login .form-control, .modal-login .btn {
+	min-height: 38px;
+	border-radius: 2px; 
+}
+.modal-login .hint-text {
+	text-align: center;
+}
+.modal-login .close {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+}
+.modal-login .checkbox-inline {
+	margin-top: 12px;
+}
+.modal-login input[type="checkbox"] {
+	position: relative;
+	top: 1px;
+}
+.modal-login .btn {
+	min-width: 100px;
+	background: #3498db;
+	border: none;
+	line-height: normal;
+}
+.modal-login .btn:hover, .modal-login .btn:focus {
+	background: #248bd0;
+}
+.modal-login .hint-text a {
+	color: #999;
+}
+.trigger-btn {
+	display: inline-block;
+	margin: 100px auto;
+}
+
+.container
+      {
+        margin-top: 100px;
+        width: 1300px;
+      }
+.headerContainer {
+  display: flex;
+}
+header a {
+  color: black;
+  font-size: 13px;
+  font-weight: bold;
+}
+}
+
+.rightNav
+{
+  display: flex;
+}
+.leftNav
+{
+  margin-left: 750px;
+  display: flex;
+}
+/* Search */
+.search
+{
+  margin-top: 150px;
+  padding-left: 20%;
+  width: 50%;
+}
+.search input
+{
+  border-left: none;
+float: left;
+font-size: 14px;
+color: #696E79;
+background-color: #F5F5F6;
+border: 1px solid #F5F5F6;
+height: 40px;
+
+}
+.form-control:focus {
+  color: #495057;
+  background-color: #F5F5F6;
+  border-color:#F5F5F6;
+  outline: 0;
+  box-shadow: none;
+}
+.btn:focus {
+  color: #495057;
+  background-color: #F5F5F6;
+  border-color:#F5F5F6;
+  outline: 0;
+  box-shadow: none;
+}
+
+.btn:hover
+{
+  cursor: auto;
+}
+.btn:focus
+{
+outline-color: none;
+outline-offset: none;
+}
+button :focus
+{
+  outline: none;
+}
+
+.search button
+{
+  border-right: none;
+float: left;
+font-size: 14px;
+color: #696E79;
+border: 1px solid #F5F5F6;
+background-color: #F5F5F6;
+height: 40px;
+}
+.search :focus
+{
+  background-color: white;
+}
+.search:focus .search-button
+{
+  background-color: white;
+}
+.logo {
+  height: 35px;
+  width: 200px;
+  margin-right: 70px;
+  margin-top: 25px;
+}
+.card-img{
+  height: 300px;
+  width: 300px;
+}
+.card-img-lg{
+  height: 220px;
+  width: 475px;
+}
+.card-img-md{
+  height: 350px;
+  width: 350px;
+}
+.col-lg-4{
+  margin-top: 30px;
+}
+.size{
+  width: 280px;
+  height: 40px;
+  font-size: large;
+  border-radius: 10px;
+  border-color: #ffffff;
+  background-color: #ffffff;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.button1{
+  background-color:  rgb(29, 154, 9, 1);
+  border-radius: 10px;
+  height: 40px;
+  width: 300px;
+  font-size: large;
+  color: black;
+  margin-top: 15px;
+  margin-left: 25px;
+}
+
+.button2{
+  color:  rgb(29, 154, 9, 1);
+  border-radius: 10px;
+  height: 40px;
+  width: 300px;
+  font-size: large;
+}
+
+
+
+footer .jumbotron
+{  
+  background-color: #000000;
+  padding-left: 200px;
+  padding-right: 200px;
+  min-height: 200px;
+  margin-top: 100px;
+  padding-left: 200px;
+}
+
+footer h4{
+  color: #ffffff;
+}
+
+
+
+
